@@ -98,4 +98,4 @@ menjadi
 
 
 
-## Latihan
+## [Latihan](./exercises/README.md)
